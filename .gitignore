@@ -1,4 +1,3 @@
-documento.brf
-documento.ilg
-documento.loq
-documento.synctex.gz
+.idea
+document*
+!documento.tex
